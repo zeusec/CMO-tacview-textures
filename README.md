@@ -1,6 +1,6 @@
 # CMO Tacview Textures Downloader
 
-A tool to download Sentinel-2 texture tiles and SRTM30 elevation data for use with [Tacview](https://www.tacview.net/) and [Command: Modern Operations](https://command.matrixgames.com/). 
+A tool to download Sentinel-2 texture tiles and SRTM30 elevation data for use with [Tacview](https://www.tacview.net/) and [Command: Modern Operations](https://command.matrixgames.com/). This downloads ALL textures and terrain data, totaling ~26 GB of space. If you stop, it will resume where you left off on the next start assuming downloaded files are still present. Once finished you must move the files yourself to proper location.
 
 >
 > — [Matrix Games Downloads Page](https://command.matrixgames.com/?page_id=1876)
@@ -75,4 +75,4 @@ Replace `[CMO]` with your Command: Modern Operations installation directory.
 ## Credits
 
 - Texture and elevation data provided by [WarfareSims/Matrix Games](https://command.matrixgames.com/?page_id=1876)
-- Tacview by [Ryu Applications](https://www.tacview.net/)
+- Tacview by [Raia Software Inc](https://www.tacview.net/)
